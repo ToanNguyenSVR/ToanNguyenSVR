@@ -2,6 +2,8 @@
 👋 Hi, I’m Toan Nguyen  
 </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToanNguyenSVR&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenSVR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ***
